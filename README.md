@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/INVE-Studios/FlowForge-Public/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/INVE-Studios/satisfactory-planner?style=flat-square&color=fa9549" /></a>
+  <a href="https://github.com/INVE-Studios/FlowForge-Public/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/INVE-Studios/FlowForge-Public?style=flat-square&color=fa9549" /></a>
 </p>
 
 ---
